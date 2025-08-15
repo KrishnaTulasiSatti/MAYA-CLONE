@@ -1,0 +1,16 @@
+.footer {
+    height: 150px;
+    display: flex;
+    background-color: #EBEFF0;
+    justify-content: center;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo-div {
+    width: 30%;
+    display: flex;
+    justify-content: end;
+    height: 100%;
+}

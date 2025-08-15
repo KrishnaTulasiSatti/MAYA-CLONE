@@ -1,0 +1,17 @@
+.contact-div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 20px;
+    width: 20%;
+    justify-content: start;
+    height: 100%;
+}
+
+.info p {
+    margin-top: 10px;
+}
+
+span {
+    color: green;
+}
