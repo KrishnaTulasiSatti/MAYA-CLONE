@@ -1,0 +1,15 @@
+.logout-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.log-out {
+    width: 110px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}

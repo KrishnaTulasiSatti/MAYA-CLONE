@@ -1,0 +1,18 @@
+.ats-sup {
+    color: red;
+    font-size: 12px;
+}
+
+.links {
+    width: 65%;
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+    font-weight: 550;
+    font-size: 18px;
+}
